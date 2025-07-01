@@ -111,8 +111,9 @@ To update your version of Node.js, you can first update Homebrew to get the late
 # **How to use**
 
 Open up your terminal and open the applications folder 
+
 Mac example 
 >cd application
 >
-Ater run node.js
+Ater run node index.js
 >node.js 
